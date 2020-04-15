@@ -8,12 +8,12 @@
 
 // setting the number of threads:
 #ifndef NUMT	
-#define NUMT	10
+#define NUMT	8
 #endif
 
 // setting the number of trials in the monte carlo simulation:
 #ifndef NUMTRIALS
-#define NUMTRIALS	10000
+#define NUMTRIALS	500000
 #endif
 
 // how many tries to discover the maximum performance:
